@@ -11,7 +11,7 @@
 #### 📫 How to Reach Me
 
 - **Email:** [ductrung190499@gmail.com](mailto:ductrung190499@gmail.com)
-- **Phone:** +84 111111111
+- **Phone:** +84 354289642
 - **Linkedin:** [My Linkedin Profile](https://www.linkedin.com/in/trung-vu-80b830221/)
 
 # 💻 Tech Stack
